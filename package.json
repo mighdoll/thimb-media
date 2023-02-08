@@ -1,0 +1,7 @@
+{
+  "name": "thimb-media",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20230115.0",
+    "typescript": "^4.9.5"
+  }
+}
