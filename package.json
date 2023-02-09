@@ -2,7 +2,7 @@
   "name": "thimb-media",
   "version": "1.0.0",
   "files": [
-    "dist"
+    "public"
   ],
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230115.0",
