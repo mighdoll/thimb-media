@@ -1,5 +1,9 @@
 {
   "name": "thimb-media",
+  "files": [
+    "dist"
+  ],
+  "version": "1.0.0",
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230115.0",
     "typescript": "^4.9.5",
